@@ -15,12 +15,12 @@ cat sample_data_40GB.txt | nmax 10000
 
 ## Usage
 
-git clone
-bundle install
+git clone <br>
+bundle install <br>
 cat sample_data_40GB.txt | nmax 10000
 
 ## Test 
-bundle exec rake 
+bundle exec rake <br>
 rake
 
 ## License
