@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/PushinAP/nmax.svg?branch=master)](https://travis-ci.org/PushinAP/nmax)
+
 # Nmax
 
 ### Cкрипт nmax, делает следующее:<br> 
