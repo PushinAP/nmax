@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/PushinAP/nmax.svg?branch=master)](https://travis-ci.org/PushinAP/nmax)
 
 # Nmax
-
+Взято из тестового задания компании Funbox на позицию Ruby разработчика.<br>
 ### Cкрипт nmax, делает следующее:<br> 
 
 читает из входящего потока текстовые данные<br>
