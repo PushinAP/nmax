@@ -5,7 +5,7 @@ module Nmax
 
   def Nmax.start(stdin = [], argv = 0)
 
-    @count = argv
+    @count = argv.to_i
 
     return Outputs.cheking_count if @count == 0 # If count is zero then displaing message
 
@@ -37,8 +37,8 @@ module Nmax
 
     sorted_numbers = numbers.sort.reverse
 
-    Outputs.result sorted_numbers[0 .. @count - 1]
+    Outputs.result sorted_numbers[0 .. @count  - 1]
 
   end
 
-end 
+end
